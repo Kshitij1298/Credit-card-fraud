@@ -1,7 +1,6 @@
-# Credit-card-fraud
 
 CREDIT CARD FRAUD DETECTION:
-This is a Cadboost model that predicts the demand for CREDIT CARD FRAUD DETECTION. The model uses historical credit card user data to make accurate predictions.
+This is a CatboostClassifier model that predicts the demand for CREDIT CARD FRAUD DETECTION. The model uses historical credit card user data to make accurate predictions.
 
 Installation
 To install and run this project on your local machine, follow these steps: git clone (https://github.com/Kshitij1298/Credit-card-fraud/blob/main/Creditcard_fraud_detection.ipynb) pip install -r requirements.txt jupyter notebook
@@ -12,7 +11,7 @@ To use this project, follow the steps outlined in the Jupyter notebook. This wil
 Data Source
 The data used in this project was provided by upgrad-CREDIT CARD.
 The dataset for this project can be accessed by clicking the link provided below.
-creditcard.csv
+https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated Project guide data set/creditcard.csv
 
 
 Model Evaluation
