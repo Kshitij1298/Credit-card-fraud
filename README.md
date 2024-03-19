@@ -11,6 +11,9 @@ To use this project, follow the steps outlined in the Jupyter notebook. This wil
 
 Data Source
 The data used in this project was provided by upgrad-CREDIT CARD.
+The dataset for this project can be accessed by clicking the link provided below.
+creditcard.csv
+
 
 Model Evaluation
 The performance of the model was evaluated using the clasification report. The model achieved an area under curve of 0.85, indicating good performance.
